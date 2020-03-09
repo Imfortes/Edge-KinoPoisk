@@ -1,4 +1,4 @@
-# Glo-academy-KinoPoisk
+# Edge-KinoPoisk
 ***
 ## API - https://developers.themoviedb.org 
 ***
